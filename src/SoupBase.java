@@ -1,6 +1,9 @@
+
+
 public class SoupBase {
     double water;
     double salt;
+
 
     // реализуйте конструктор
     public SoupBase(double water, double salt){

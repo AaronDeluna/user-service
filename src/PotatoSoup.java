@@ -9,6 +9,7 @@ public class PotatoSoup extends Bouillon {
         this.carrot = carrot;
     }
 
+
     public PotatoSoup(SoupBase soupBase, double meat, double potato, double carrot){
         super(soupBase.water, soupBase.salt, meat);
         this.potato = potato;
